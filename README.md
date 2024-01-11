@@ -1,4 +1,4 @@
-Selected GPTs prompts
+## Selected GPTs prompts
 
 22.500+ Best Custom GPTs: [GPTs link](https://chat.openai.com/g/g-RuhDS8mbd-22-500-best-custom-gpts), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/22.500%2B%20Best%20Custom%20GPTs.md)  
 AI PDF: [GPTs link](https://chat.openai.com/g/g-V2KIUZSj0-ai-pdf), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/AI%20PDF.md)  
@@ -6,5 +6,17 @@ AllTrials: [GPTs link](https://chat.openai.com/g/g-KpF6lTka3-alltrails), [prompt
 AskTheCode: [GPTs link](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/AskTheCode.md), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/AskTheCode.md)  
 AskYourPDF Research Assistant: [GPTs link](https://chat.openai.com/g/g-UfFxTDMxq-askyourpdf-research-assistant), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/AskYourPDF%20Research%20Assistant.md)  
 Books: [GPTs link](https://chat.openai.com/g/g-z77yDe7Vu-books), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/Books.md)  
-Canva: [GPTs link](https://chat.openai.com/g/g-alKfVrz9K-canva), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/Canva.md)
-
+Canva: [GPTs link](https://chat.openai.com/g/g-alKfVrz9K-canva), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/Canva.md)  
+Consensus: [GPTs link](https://chat.openai.com/g/g-bo0FiWLY7-consensus), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/Consensus.md)  
+DesignerGPT: [GPTs link](https://chat.openai.com/g/g-2Eo3NxuS7-designergpt), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/DesignerGPT.md)  
+Fully SEO Optimized Article including FAQ's
+:[GPTs link](https://chat.openai.com/g/g-ySbhcRtru-fully-seo-optimized-article-including-faq-s), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/Fully%20SEO%20Optimized%20Article%20including%20FAQ's.md)  
+Image Copy Machine GPT: [GPTs link](https://chat.openai.com/g/g-g0efUwWgG-image-copy-machine-gpt), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/Image%20Copy%20Machine%20GPT.md)  
+Logo Creator: [GPTs link](https://chat.openai.com/g/g-gFt1ghYJl-logo-creator), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/Logo%20Creator.md)  
+LogoGPT: [GPTs link](https://chat.openai.com/g/g-z61XG6t54-logogpt), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/LogoGPT.md)  
+ScholarAI: [GPTs link](https://chat.openai.com/g/g-L2HknCZTC-scholarai), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/ScholarAI.md)  
+Scispace: [GPTs link](https://chat.openai.com/g/g-NgAcklHd8-scispace), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/Scispace.md)  
+Super Describe: [GPTs link](https://chat.openai.com/g/g-9qWC0oyBd-super-describe), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/Super%20Describe.md)  
+VideoGPT by VEED: [GPTs link](https://chat.openai.com/g/g-Hkqnd7mFT-videogpt-by-veed), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/VideoGPT%20by%20VEED.md)  
+WebPilot: [GPTs link](https://chat.openai.com/g/g-pNWGgUYqS-webpilot), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/WebPilot.md)  
+image generator: [GPTs link](https://chat.openai.com/g/g-pmuQfob8d-image-generator), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/image%20generator.md)  
