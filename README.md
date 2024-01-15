@@ -23,6 +23,7 @@ The project is exclusively for research purposes, and the developers do not take
 16) image generator: [GPTs link](https://chat.openai.com/g/g-pmuQfob8d-image-generator), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/16.image%20generator.md)  
 17) Logo Creator: [GPTs link](https://chat.openai.com/g/g-gFt1ghYJl-logo-creator), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/17.Logo%20Creator.md)  
 18) LogoGPT: [GPTs link](https://chat.openai.com/g/g-z61XG6t54-logogpt), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/18.LogoGPT.md)  
+19) Perfect Image Designer: [GPTs link](https://chat.openai.com), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/19.Perfect%20Image%20Designer.md)  
 20) Rank Math SEO Optimized Content Writer: [GPTs link](https://chat.openai.com/g/g-dd2qWCtR6-rank-math-seo-optimized-content-writer), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/20.Rank%20Math%20SEO%20Optimized%20Content%20Writer.md)  
 21) ScholarAI: [GPTs link](https://chat.openai.com/g/g-L2HknCZTC-scholarai), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/21.ScholarAI.md)  
 22) Scispace: [GPTs link](https://chat.openai.com/g/g-NgAcklHd8-scispace), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/22.Scispace.md)  
