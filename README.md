@@ -52,3 +52,5 @@ The project is exclusively for research purposes, and the developers do not take
 46) Universal Primer: [GPTs link](https://chat.openai.com/g/g-GbLbctpPz-universal-primer/c/4ccf3b85-1ca3-46de-abb3-5ed86ba72804), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/46.Universal%20Primer.md)  
 47) Math Solver: [GPTs link](https://chat.openai.com/g/g-9YeZz6m6k-math-solver), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/47.Math%20Solver.md)  
 48) AlphaNotes GPT: [GPTs link](https://chat.openai.com/g/g-ZdfrSRAyo-alphanotes-gpt), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/48.AlphaNotes%20GPT.md)  
+49) Calendar GPT: [GPTs link](https://chat.openai.com/g/g-8OcWVLenu-calendar-gpt), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/49.Calendar%20GPT.md)  
+50) Mr. Ranedeer: [GPTs link](https://chat.openai.com/g/g-9PKhaweyb-mr-ranedeer), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/50.Mr.%20Ranedeer.md)  
