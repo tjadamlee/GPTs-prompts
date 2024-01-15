@@ -17,6 +17,9 @@ The project is exclusively for research purposes, and the developers do not take
 10) DesignerGPT: [GPTs link](https://chat.openai.com/g/g-2Eo3NxuS7-designergpt), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/10.DesignerGPT.md)  
 11) Fully SEO Optimized Article including FAQ's
 :[GPTs link](https://chat.openai.com/g/g-ySbhcRtru-fully-seo-optimized-article-including-faq-s), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/11.Fully%20SEO%20Optimized%20Article%20including%20FAQ's.md)  
+12) Glibatree Art Designer: [GPTs link](https://chat.openai.com/g/g-7CKojumSX-glibatree-art-designer), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/12.Glibatree%20Art%20Designer.md)  
+13) Grimoire: [GPTs link](https://chat.openai.com/g/g-n7Rs0IK86-grimoire), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/13.Grimoire.md)  
+14) Humanizer Pro: [GPTs link](https://chat.openai.com/g/g-2azCVmXdy-humanizer-pro), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/13.Humanizer%20Pro.md)  
 15) Image Copy Machine GPT: [GPTs link](https://chat.openai.com/g/g-g0efUwWgG-image-copy-machine-gpt), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/15.Image%20Copy%20Machine%20GPT.md)  
 16) image generator: [GPTs link](https://chat.openai.com/g/g-pmuQfob8d-image-generator), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/16.image%20generator.md)  
 17) Logo Creator: [GPTs link](https://chat.openai.com/g/g-gFt1ghYJl-logo-creator), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/17.Logo%20Creator.md)  
