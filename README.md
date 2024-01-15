@@ -21,10 +21,6 @@
 24) Super Describe: [GPTs link](https://chat.openai.com/g/g-9qWC0oyBd-super-describe), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/24.Super%20Describe.md)  
 25) VideoGPT by VEED: [GPTs link](https://chat.openai.com/g/g-Hkqnd7mFT-videogpt-by-veed), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/25.VideoGPT%20by%20VEED.md)  
 26) WebPilot: [GPTs link](https://chat.openai.com/g/g-pNWGgUYqS-webpilot), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/26.WebPilot.md)  
-
-
-40) Cartoonize Yourself: [GPTs link](https://chat.openai.com/g/g-gFFsdkfMC-cartoonize-yourself/c/9dd3b2eb-094d-434d-b84b-e404eaaa8424)  
-
-41) MJ V6 Prompt Assistant 🎨: [GPTs link](https://chat.openai.com/g/g-gJkbSluaz-mj-v6-prompt-assistant/c/80697ba9-e32a-4c8d-a4f1-3923e60502c9)  
-
-42) Visual Weather Artist GPT: [GPTs link](https://chat.openai.com/g/g-twUGxmpHv-visual-weather-artist-gpt/c/d77055fe-9f2a-4583-9ed6-7087dcc26428)  
+40) Cartoonize Yourself: [GPTs link](https://chat.openai.com/g/g-gFFsdkfMC-cartoonize-yourself/c/9dd3b2eb-094d-434d-b84b-e404eaaa8424), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/40.Cartoonize%20Yourself.md)  
+41) MJ V6 Prompt Assistant 🎨: [GPTs link](https://chat.openai.com/g/g-gJkbSluaz-mj-v6-prompt-assistant/c/80697ba9-e32a-4c8d-a4f1-3923e60502c9), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/41.MJ%20V6%20Prompt%20Assistant%20🎨.md)  
+42) Visual Weather Artist GPT: [GPTs link](https://chat.openai.com/g/g-twUGxmpHv-visual-weather-artist-gpt/c/d77055fe-9f2a-4583-9ed6-7087dcc26428), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/42.Visual%20Weather%20Artist%20GPT.md)  
