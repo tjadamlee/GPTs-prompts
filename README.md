@@ -32,3 +32,4 @@ The project is exclusively for research purposes, and the developers do not take
 44) Copywriter GPT: [GPTs link](https://chat.openai.com/g/g-Ji2QOyMml-copywriter-gpt/c/feee54f7-3d03-4178-b0a9-dd07c981d3a7), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/44.Copywriter%20GPT.md)  
 46) Universal Primer: [GPTs link](https://chat.openai.com/g/g-GbLbctpPz-universal-primer/c/4ccf3b85-1ca3-46de-abb3-5ed86ba72804), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/46.Universal%20Primer.md)  
 47) Math Solver: [GPTs link](https://chat.openai.com/g/g-9YeZz6m6k-math-solver), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/47.Math%20Solver.md)  
+48) AlphaNotes GPT: [GPTs link](https://chat.openai.com/g/g-ZdfrSRAyo-alphanotes-gpt), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/48.AlphaNotes%20GPT.md)  
