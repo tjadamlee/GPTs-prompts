@@ -13,7 +13,7 @@ The project is exclusively for research purposes, and the developers do not take
 6) Books: [GPTs link](https://chat.openai.com/g/g-z77yDe7Vu-books), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/6.Books.md)  
 7) Canva: [GPTs link](https://chat.openai.com/g/g-alKfVrz9K-canva), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/7.Canva.md)  
 8) Code Tutor: [GPTs link](https://chat.openai.com/g/g-HxPrv1p8v-code-tutor), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/8.Code%20Tutor.md)  
-9) Consensus: [GPTs link](https://chat.openai.com/g/g-bo0FiWLY7-consensus), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/9.onsensus.md)  
+9) Consensus: [GPTs link](https://chat.openai.com/g/g-bo0FiWLY7-consensus), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/9.Consensus.md)  
 10) DesignerGPT: [GPTs link](https://chat.openai.com/g/g-2Eo3NxuS7-designergpt), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/10.DesignerGPT.md)  
 11) Fully SEO Optimized Article including FAQ's
 :[GPTs link](https://chat.openai.com/g/g-ySbhcRtru-fully-seo-optimized-article-including-faq-s), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/11.Fully%20SEO%20Optimized%20Article%20including%20FAQ's.md)  
