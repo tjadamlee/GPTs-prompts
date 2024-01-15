@@ -4,7 +4,6 @@ This project offers a collection of prompts for some of the more famous GPTs. Th
 The text states that developers are only allowed to use the open-source code, data, models, and derivatives created from this project for research purposes. They are prohibited from using them for commercial purposes or any other purposes that might cause harm to society.  
 The project is exclusively for research purposes, and the developers do not take any responsibility for any harm or loss caused by using this project (including but not limited to data, models, code, etc.).  
 
-
 1) 22.500+ Best Custom GPTs: [GPTs link](https://chat.openai.com/g/g-RuhDS8mbd-22-500-best-custom-gpts), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/1.22.500%2B%20Best%20Custom%20GPTs.md)  
 2) AI PDF: [GPTs link](https://chat.openai.com/g/g-V2KIUZSj0-ai-pdf), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/2.AI%20PDF.md)  
 3) AllTrials: [GPTs link](https://chat.openai.com/g/g-KpF6lTka3-alltrails), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/3.AllTrials.md)  
@@ -34,10 +33,22 @@ The project is exclusively for research purposes, and the developers do not take
 27) Write for Me: [GPTs link](https://chat.openai.com/g/g-B3hgivKK9-write-for-me), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/27.Write%20for%20Me.md)  
 28) Prompty: [GPTs link](https://chat.openai.com/g/g-aZLV4vji6-prompty), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/28.Prompty.md)  
 29) AI Voice Generator: [GPTs link](https://chat.openai.com/g/g-a83ktVq7n-ai-voice-generator), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/29.AI%20Voice%20Generator.md)  
+30) Consistent Character GPT: [GPTs link](https://chat.openai.com/g/g-a9JivI0y2-consistent-character-gpt), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/30.Consistent%20Character%20GPT.md)  
+31) Diagrams: Show Me: [GPTs link](https://chat.openai.com/g/g-5QhhdsfDj-diagrams-show-me), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/31.Diagrams:%20Show%20Me.md)  
+32) Essay Writer 😎: [GPTs link](https://chat.openai.com/g/g-OHtksi5YI-essay-writer), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/32.Essay%20Writer%20😎.md)  
+33) Image Caption Generator: [GPTs link](https://chat.openai.com/g/g-yCGszMTwJ-image-caption-generator), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/33.Image%20Caption%20Generator.md)  
+34) Income Stream Surfer's SEO Content Writer: [GPTs link](https://chat.openai.com/g/g-Qf60vcWcr-income-stream-surfer-s-seo-content-writer), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/34.Income%20Stream%20Surfer's%20SEO%20Content%20Writer.md)  
+35) Professor Synapse: [GPTs link](https://chat.openai.com/g/g-ucpsGCQHZ-professor-synapse), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/35.Professor%20Synapse.md)  
+36) SEO Fox: [GPTs link](https://chat.openai.com/g/g-67BQ2meqw-seo-fox), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/36.SEO%20Fox.md)  
+37) Transcript Thief: [GPTs link](https://chat.openai.com/g/g-h0GNwHfzB-transcript-thief), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/37.Transcript%20Thief.md)  
+38) ✏️All-around Writer (Professional Version): [GPTs link](https://chat.openai.com/g/g-UbpNAGYL9-all-around-writer-professional-version), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/38.✏️All-around%20Writer%20(Professional%20Version).md)  
+39) 👌Academic Assistant Pro: [GPTs link](https://chat.openai.com/g/g-Ej5zYQRIB-academic-assistant-pro), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/39.👌Academic%20Assistant%20Pro.md)  
 40) Cartoonize Yourself: [GPTs link](https://chat.openai.com/g/g-gFFsdkfMC-cartoonize-yourself/c/9dd3b2eb-094d-434d-b84b-e404eaaa8424), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/40.Cartoonize%20Yourself.md)  
 41) MJ V6 Prompt Assistant 🎨: [GPTs link](https://chat.openai.com/g/g-gJkbSluaz-mj-v6-prompt-assistant/c/80697ba9-e32a-4c8d-a4f1-3923e60502c9), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/41.MJ%20V6%20Prompt%20Assistant%20🎨.md)  
 42) Visual Weather Artist GPT: [GPTs link](https://chat.openai.com/g/g-twUGxmpHv-visual-weather-artist-gpt/c/d77055fe-9f2a-4583-9ed6-7087dcc26428), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/42.Visual%20Weather%20Artist%20GPT.md)  
+43) Automated Blog Post Writer: [GPTs link](https://chat.openai.com/g/g-82ALdp8Nj-automated-blog-post-writer), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/42.Automated%20Blog%20Post%20Writer.md)  
 44) Copywriter GPT: [GPTs link](https://chat.openai.com/g/g-Ji2QOyMml-copywriter-gpt/c/feee54f7-3d03-4178-b0a9-dd07c981d3a7), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/44.Copywriter%20GPT.md)  
+45) ChatPRD: [GPTs link](https://chat.openai.com/g/g-G5diVh12v-chatprd), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/45.ChatPRD.md)  
 46) Universal Primer: [GPTs link](https://chat.openai.com/g/g-GbLbctpPz-universal-primer/c/4ccf3b85-1ca3-46de-abb3-5ed86ba72804), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/46.Universal%20Primer.md)  
 47) Math Solver: [GPTs link](https://chat.openai.com/g/g-9YeZz6m6k-math-solver), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/47.Math%20Solver.md)  
 48) AlphaNotes GPT: [GPTs link](https://chat.openai.com/g/g-ZdfrSRAyo-alphanotes-gpt), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/48.AlphaNotes%20GPT.md)  
