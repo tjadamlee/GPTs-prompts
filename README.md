@@ -1,5 +1,10 @@
 ## Selected GPTs prompts
 
+This project offers a collection of prompts for some of the more famous GPTs. These prompts are provided for reference, exchange, and learning purposes.  
+The text states that developers are only allowed to use the open-source code, data, models, and derivatives created from this project for research purposes. They are prohibited from using them for commercial purposes or any other purposes that might cause harm to society.  
+The project is exclusively for research purposes, and the developers do not take any responsibility for any harm or loss caused by using this project (including but not limited to data, models, code, etc.).  
+
+
 1) 22.500+ Best Custom GPTs: [GPTs link](https://chat.openai.com/g/g-RuhDS8mbd-22-500-best-custom-gpts), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/1.22.500%2B%20Best%20Custom%20GPTs.md)  
 2) AI PDF: [GPTs link](https://chat.openai.com/g/g-V2KIUZSj0-ai-pdf), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/2.AI%20PDF.md)  
 3) AllTrials: [GPTs link](https://chat.openai.com/g/g-KpF6lTka3-alltrails), [prompt](https://github.com/tjadamlee/GPTs-prompts/blob/main/GPTs-prompts/3.AllTrials.md)  
